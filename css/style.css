@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+}
+
+.cartaz {
+    width: 530px;
+    height:600px;
+    margin: 130px auto;
+    border: 2px solid #457B9D;
+    text-align: center;
+    background-color: #1d3557;
+}
+
+h1, p {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.diferente {
+    font-size: 22px;
+}
+
+span {
+    color: white;
+    font-size: 24px;
+    border-top: 3px solid blue;
+    border-bottom: 3px solid blue;
+}
