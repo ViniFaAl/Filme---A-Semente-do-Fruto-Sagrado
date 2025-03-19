@@ -1,14 +1,14 @@
 body {
-    background-color: aqua;
+    background-image: url(../img/a-semente-fruto.webp);
 }
 
 .cartaz {
     width: 530px;
-    height:600px;
-    margin: 130px auto;
+    height: 600px;
+    margin: 100px auto;
     border: 2px solid #457B9D;
     text-align: center;
-    background-color: #1d3557;
+    background-color: rgba(29, 53, 87, 0.59)
 }
 
 h1, p {
@@ -20,13 +20,18 @@ h1 {
     font-size: 38px;
 }
 
+.filme .texto {
+    font-size: 16px;
+}
+
 p {
     font-size: 18px;
     line-height: 30px;
+    padding: 0 30px;
 }
 
 .diferente {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 span {
